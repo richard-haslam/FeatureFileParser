@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <PackageId>FeatureFileParser</PackageId>
+    <Authors>Richard Haslam</Authors>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="gherkin" Version="5.1.0" />
+  </ItemGroup>
+
+</Project>
